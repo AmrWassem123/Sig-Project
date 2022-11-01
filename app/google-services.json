@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612516604431",
+    "project_id": "amora-793b8",
+    "storage_bucket": "amora-793b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612516604431:android:fa9b4ac4a6a43ddb00117a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612516604431-43oojs4ukokcl6r8jl7tvtic5qh9lote.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDkDTICbRdFKBAf6l_JmHvc2a2u6E264"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612516604431-43oojs4ukokcl6r8jl7tvtic5qh9lote.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
